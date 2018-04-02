@@ -26,4 +26,4 @@
 ![](https://github.com/tamarapopova/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA6.PNG?raw=true)
 ![](https://github.com/tamarapopova/hw6/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA7.PNG?raw=true)
 
-
+В sketch engine слово inventive совсем не употреблялось до 1983 года, однако в Google Ngram данное слово было популярно и в 19 веке. При этом стоит отметить, что слово inventive в обоих ресурсах достигало пика в разные годы: в sketch engine это 1984 год (143.70 relative text type frequency), а в Google Ngram - 1889 год (0,0002620450%). Можно предположить, различия связаны с тем, что были использованы разные источники для статистики.
